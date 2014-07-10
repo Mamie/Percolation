@@ -1,6 +1,9 @@
 Percolation
 ===========
 
+### Assignment requirement
+> http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
+
 Percolation
 ------------
 To model a percolation system, Percolation data type is created using follwing API:
@@ -30,3 +33,4 @@ The PercolationStats data type uses Monto Carlo simulation to estimate percolati
 PercolationVisualizer
 -----------------------
 PercolationVisualizer is a client of Percolation data type which reads an input file to visualize the progress of percolation.
+
